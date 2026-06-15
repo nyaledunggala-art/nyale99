@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Aplikasi Web Saya",
-    "slug": "telegram-notification-forwarder",
+    "slug": "spynotif",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
