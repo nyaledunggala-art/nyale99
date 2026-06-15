@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "Notifspy",
+    "name": "Aplikasi Web Saya",
     "slug": "telegram-notification-forwarder",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -24,9 +24,6 @@
     "web": {
       "favicon": "./assets/favicon.png"
     },
-    "plugins": [
-      "react-native-android-notification-listener"
-    ],
     "extra": {
       "eas": {
         "projectId": "3fa42bd9-f7c9-47df-91f7-4b3546341b99"
