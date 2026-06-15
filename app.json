@@ -1,0 +1,36 @@
+{
+  "expo": {
+    "name": "Notifspy",
+    "slug": "telegram-notification-forwarder",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#121212"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundColor": "#121212"
+      },
+      "package": "com.namaanda.notiftele"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "react-native-android-notification-listener"
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "3fa42bd9-f7c9-47df-91f7-4b3546341b99"
+      }
+    }
+  }
+}
